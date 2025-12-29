@@ -1,0 +1,11 @@
+Wireshark Traffic Analysis Report
+Date: 2025-12-29 16:53:28.419644
+==================================================
+
+Total Packets Captured: 110
+DNS Packets: 20
+HTTP Packets: 0
+ICMP Packets: 0
+
+Observations:
+- DNS activity detected (normal for browsing)
